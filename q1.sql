@@ -1,0 +1,1 @@
+SELECT * FROM retail_events_db.fact_events;
